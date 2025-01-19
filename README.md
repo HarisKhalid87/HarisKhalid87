@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarisKhalid87
-- 👀 I’m interested in learning javascript for the development of interative websites.
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to get some practical knowledge of web development.
+- 👀 I’m interested in Real world Data science projects.
+- 🌱 I’m currently learning development of real world data science projects from tutorials.
+- 💞️ I’m looking to get practical knowledge.
 - 📫 Ny email address is muhammadharisbinkhalid@gmail.com and my contact number is +923142294285
 
 <!---
